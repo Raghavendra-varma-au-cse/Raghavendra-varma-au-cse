@@ -1,25 +1,166 @@
-<h1 align="center">Hi 👋, I'm DANDU S N VENKATA PAVAN RAGHAVENDRA VARMA</h1>
-<h3 align="center">Tech Enthusiast | B.Tech in Computer Science and Engineering | Ethical Hacking & Web Security Expert</h3>
+# Raghavendra Varma
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raghavendra-varma-au-cse&label=Profile%20views&color=0e75b6&style=flat" alt="raghavendra-varma-au-cse" /> </p>
+**Systems Architect · AI Engineer · Security Specialist · Founder**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raghavendra-varma-au-cse" alt="raghavendra-varma-au-cse" /></a> </p>
+Building production-grade, compliance-ready platforms at scale. ISO 27001 Practitioner with proven expertise in distributed systems, agentic AI, and security engineering.
 
-<p align="left"> <a href="https://twitter.com/varma21414594" target="blank"><img src="https://img.shields.io/twitter/follow/varma21414594?logo=twitter&style=for-the-badge" alt="varma21414594" /></a> </p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-raghavendravarma.vercel.app-000?style=flat-square&logo=vercel)](https://raghavendravarma.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-raghavendravarma-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/raghavendravarma)
 
-- 📫 How to reach me **322506402083@andhrauniversity.edu.in**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/raghavendra_varma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="raghavendra_varma" height="30" width="40" /></a>
-<a href="https://twitter.com/varma21414594" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="varma21414594" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/raghavendravarma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raghavendravarma" height="30" width="40" /></a>
-<a href="https://instagram.com/snvprvarma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="snvprvarma" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/venkata_varma" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="venkata_varma" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/danduvarma2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="danduvarma2005" height="30" width="40" /></a>
+## Production Impact
+
+| Metric | Value |
+|--------|-------|
+| **Users Managed** | 152,000+ |
+| **Requests Handled** | 8.3M+ |
+| **Cache Efficiency** | 97% |
+| **Uptime** | 100% |
+
+---
+
+## Flagship Projects
+
+### APSET Platform
+**Official Andhra Pradesh State Eligibility Test System**
+
+Architected and deployed the state government's official examination platform handling 152K+ candidates with zero downtime. Built end-to-end candidate registration, admin dashboards, document verification workflows, and comprehensive audit logging.
+
+`Next.js` `TypeScript` `Cloudflare` `Serverless DB` `Role-Based Access Control`
+
+**Security:** ISO 27001-aligned controls, encrypted data at rest, comprehensive audit trails
+
+🔗 [apset.net.in](https://apset.net.in/)
+
+---
+
+### OptiScan AI
+**Medical Imaging Diagnostic System**
+
+AI-powered mobile application for detecting eye diseases from retinal images. Implements ML models for cataract, diabetic retinopathy, and glaucoma detection with high-accuracy diagnostics.
+
+`Computer Vision` `Healthcare AI` `Mobile` `TensorFlow/PyTorch`
+
+---
+
+### NyayaConnect
+**Legal Support Platform for Rural Communities**
+
+High-human-interaction legal support platform bridging the justice gap for rural India, specifically streamlining land conflict resolution and access to justice.
+
+`Legal Tech` `Social Impact` `Conflict Resolution`
+
+---
+
+### Blockchain Evidence Management
+**Tamper-Proof Digital Forensics Platform**
+
+Local-first digital evidence management system leveraging blockchain and cryptography for tamper-proof chain-of-custody tracking and integrity verification.
+
+`Blockchain` `Cryptography` `Digital Forensics` `Chain-of-Custody`
+
+---
+
+### Local Special Agent Chatbot
+**Privacy-First Autonomous AI System**
+
+Local-first agentic AI chatbot with browser automation, knowledge tracking, and autonomous task execution. Designed for privacy-conscious operations without cloud dependencies.
+
+`Agentic AI` `LLM Orchestration` `RAG Architecture` `Browser Automation`
+
+---
+
+## Technical Expertise
+
+### Distributed Systems & Architecture
+Next.js 14/15 · React 18/19 · Node.js · TypeScript · Serverless · Horizontal Scaling · Load Balancing · CDN Edge
+
+### AI & Machine Learning
+LLM Orchestration · RAG Architecture · OpenRouter · Computer Vision · Medical Imaging AI · Agentic Systems
+
+### Security Engineering
+ISO 27001 ISMS · Zero Trust Architecture · Penetration Testing · DFIR · SecDevOps · OAuth/MFA/JWT · Risk Assessment
+
+### Cloud & Infrastructure
+Cloudflare · AWS · Azure · Docker · Auto-scaling · Performance Optimization
+
+### Database Architecture
+PostgreSQL · MongoDB · Turso · Vector Databases · Scalable Data Layer Design
+
+---
+
+## Certifications
+
+| Certification | Issuer |
+|--------------|--------|
+| **Certified Cyber Technician (CCT)** | EC-Council |
+| **SC-900** | Microsoft |
+| **ISO 27001 Internal Implementation Practitioner** | — |
+| **CC – Certified in Cybersecurity** | ISC2 |
+| **Introducing Generative AI with AWS** | Udacity |
+
+---
+
+## Leadership & Community
+
+**CEO & Founder** — EduEmblem Services LLP  
+Leading product architecture, platform strategy, and ISO 27001-oriented security implementation for an educational e-commerce platform.
+
+**Head of Community Operations** — Codeiam (500+ members)  
+**Technical Head** — GFG AU Club  
+**Founder & Lead** — Ethical DevSecOps Chapter (80+ members, 12 workshops)
+
+### Hackathon Track Record
+- 🥈 Runner-up — Amaravati Quantum Valley Hackathon (2025)
+- 🥇 First Place — Periscope Hackathon, Andhra University (2022)
+- 🥉 Third Place — Periscope Hackathon, AU College of Engineering (2022)
+- Top 5 — Smart India Internal Hackathon SIH1609 (2024)
+- Finalist — Smart India Hackathon SIH1408 (2023)
+
+---
+
+## Research Focus
+
+- **Venture Engineering** — Scalable architecture for high-growth startups bridging MVP to enterprise-grade security
+- **Autonomous AI Systems** — Agentic AI integration with Zero-Trust security for automated SecOps workflows
+- **Digital Forensics & Privacy** — Blockchain-based integrity systems for evidence management and privacy-preserving architectures
+
+---
+
+## Professional Experience
+
+**Information Security Analyst Intern** — InterviewBuddy  
+ISO/IEC 27001 implementation, risk assessments, security policy development, audit preparation
+
+**Cyber Security & Ethical Hacking Intern** — Coincent  
+Server vulnerability exploitation, penetration testing, network security
+
+**Full Stack Developer** — Sri Venkata Ramana Hospital  
+Healthcare web application with Next.js, MongoDB, patient management workflows
+
+**AI Intern** — Pantech Solutions  
+ML model development, data analysis pipelines
+
+---
+
+## Systems Philosophy
+
+```
+Security is architecture, not an afterthought.
+Design for 10x growth from day one.
+AI augments human decision-making — it doesn't replace it.
+Compliance is a design requirement, not a retrofit.
+```
+
+---
+
+<p align="center">
+  <strong>Open to opportunities in systems architecture, AI engineering, and security leadership.</strong>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=raghavendra-varma-au-cse&show_icons=true&locale=en&layout=compact" alt="raghavendra-varma-au-cse" /></p>
+<p align="center">
+  <a href="https://raghavendravarma.vercel.app/">Portfolio</a> ·
+  <a href="https://linkedin.com/in/raghavendravarma">LinkedIn</a> ·
+  <a href="https://github.com/Raghavendra-varma-au-cse">GitHub</a>
+</p>
