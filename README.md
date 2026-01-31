@@ -1,39 +1,64 @@
 <div align="center">
-  
-  <!-- ANIMATED HEADER -->
-  ![Header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=300&section=header&text=Raghavendra%20Varma&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Systems%20Architect%20•%20AI%20Engineer%20•%20Security%20Specialist%20•%20Founder&descAlignY=58&descSize=20)
 
-  <!-- ANIMATED WAVE -->
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
+  <!-- HERO SECTION -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6366F1,100:10B981&height=220&section=header&text=&fontSize=0" width="100%"/>
   
-  <!-- SOCIAL BADGES -->
-  <a href="https://raghavendravarma.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Site-6366F1?style=for-the-badge&labelColor=1a1b27" alt="Portfolio"/>
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/raghavendravarma">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/Raghavendra-varma-au-cse">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27" alt="GitHub"/>
-  </a>
+  <!-- ANIMATED LOGO -->
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="300"/>
+  
+  <!-- NAME WITH GLOW EFFECT -->
+  <h1>
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=45&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&repeat=true&width=650&height=70&lines=RAGHAVENDRA+VARMA" alt="Name" />
+  </h1>
 
-  <br/><br/>
+  <!-- ANIMATED TITLE BADGES -->
+  <p>
+    <img src="https://img.shields.io/badge/⚡_Systems_Architect-0d1117?style=for-the-badge&labelColor=6366F1" />
+    <img src="https://img.shields.io/badge/🤖_AI_Engineer-0d1117?style=for-the-badge&labelColor=10B981" />
+    <img src="https://img.shields.io/badge/🔒_Security_Specialist-0d1117?style=for-the-badge&labelColor=EF4444" />
+    <img src="https://img.shields.io/badge/🚀_Founder-0d1117?style=for-the-badge&labelColor=F59E0B" />
+  </p>
+
+  <!-- ANIMATED UNDERLINE -->
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
+
+  <br/>
   
   <!-- TYPING ANIMATION -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=%F0%9F%9A%80+Building+Production-Grade+Platforms+at+Scale;%F0%9F%94%92+ISO+27001+Practitioner+%7C+152K%2B+Users+Managed;%F0%9F%A4%96+Agentic+AI+%7C+Distributed+Systems+%7C+Security;%F0%9F%8F%86+Founder+%26+CEO+%40+EduEmblem+Services+LLP" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=80&lines=Building+Production-Grade+Platforms+at+Enterprise+Scale;ISO+27001+Practitioner+%7C+152K%2B+Users+%7C+8.3M%2B+Requests" alt="Typing SVG" />
   </a>
+
+  <br/><br/>
+
+  <!-- SOCIAL BADGES WITH HOVER GLOW -->
+  <a href="https://raghavendravarma.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-raghavendravarma.vercel.app-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117" alt="Portfolio"/>
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/raghavendravarma">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/Raghavendra-varma-au-cse">
+    <img src="https://img.shields.io/badge/GitHub-Follow-10B981?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub"/>
+  </a>
+
+  <br/><br/>
+
+  <!-- ANIMATED STATS PILLS -->
+  <img src="https://img.shields.io/badge/🎯_Production_Systems-5+-6366F1?style=for-the-badge&labelColor=0d1117" alt="Systems"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/👥_Community-1200+-10B981?style=for-the-badge&labelColor=0d1117" alt="Community"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/🏆_Hackathon_Wins-5+-F59E0B?style=for-the-badge&labelColor=0d1117" alt="Hackathons"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/🔐_Certifications-6+-EF4444?style=for-the-badge&labelColor=0d1117" alt="Certifications"/>
 
   <br/>
 
-  <!-- QUICK STATS -->
-  <img src="https://img.shields.io/badge/🎯_Production_Systems-5+-10B981?style=for-the-badge&labelColor=1a1b27" alt="Systems"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/⭐_Community-1200+-F59E0B?style=for-the-badge&labelColor=1a1b27" alt="Community"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/🏆_Hackathons-5+_Wins-6366F1?style=for-the-badge&labelColor=1a1b27" alt="Hackathons"/>
+  <!-- WAVE TRANSITION -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,50:6366F1,100:0d1117&height=120&section=footer&reversal=true" width="100%"/>
 
 </div>
 
