@@ -44,6 +44,11 @@
     <img src="https://img.shields.io/badge/GitHub-Follow-10B981?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub"/>
   </a>
 
+  <!-- GITHUB STREAK BADGE -->
+  <a href="https://github.com/Raghavendra-varma-au-cse">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raghavendra-varma-au-cse&theme=dark&hide_border=true" alt="GitHub Streak"/>
+  </a>
+
   <br/><br/>
 
   <!-- ANIMATED STATS PILLS -->
