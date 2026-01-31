@@ -594,21 +594,21 @@ AI-powered **eye disease detection** from retinal images
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <h2>
-  <img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" width="30" />
+  📊
   &nbsp;GitHub Analytics
 </h2>
 
 <div align="center">
 
   <!-- STATS ROW 1 -->
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Raghavendra-varma-au-cse&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=10B981&text_color=FFFFFF&ring_color=6366F1" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Raghavendra-varma-au-cse&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=10B981&text_color=FFFFFF&ring_color=6366F1" alt="GitHub Stats"/>
   &nbsp;
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raghavendra-varma-au-cse&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF" alt="Top Languages"/>
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Raghavendra-varma-au-cse&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF" alt="Top Languages"/>
 
   <br/><br/>
 
   <!-- STREAK STATS -->
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Raghavendra-varma-au-cse&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=10B981&fire=F59E0B&currStreakLabel=FFFFFF&sideLabels=6366F1" alt="GitHub Streak"/>
+  <img width="70%" src="https://streak-stats.demolab.com/?user=Raghavendra-varma-au-cse&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=10B981&fire=F59E0B&currStreakLabel=FFFFFF&sideLabels=6366F1" alt="GitHub Streak"/>
 
   <br/><br/>
 
@@ -632,7 +632,7 @@ AI-powered **eye disease detection** from retinal images
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <h2>
-  <img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010571.png" width="30" />
+  💡
   &nbsp;Engineering Philosophy
 </h2>
 
