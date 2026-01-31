@@ -46,7 +46,7 @@
 
   <!-- GITHUB STREAK BADGE -->
   <a href="https://github.com/Raghavendra-varma-au-cse">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raghavendra-varma-au-cse&theme=dark&hide_border=true" alt="GitHub Streak"/>
+     <img src="https://streak-stats.demolab.com/?user=Raghavendra-varma-au-cse&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=10B981&fire=F59E0B&currStreakLabel=FFFFFF&sideLabels=6366F1" alt="GitHub Streak"/>
   </a>
 
   <br/><br/>
