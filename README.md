@@ -540,7 +540,7 @@ AI-powered **eye disease detection** from retinal images
 <img src="https://img.shields.io/badge/Product_&_Platform-6366F1?style=flat-square"/>
 </td>
 <td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-571c0f010f85.png" width="60"/>
+<span style="font-size:60px">👥</span>
 <br/><br/>
 <b>👥 Head of Ops</b>
 <br/>
@@ -608,7 +608,7 @@ AI-powered **eye disease detection** from retinal images
   <br/><br/>
 
   <!-- STREAK STATS -->
-  <img width="70%" src="https://streak-stats.demolab.com/?user=Raghavendra-varma-au-cse&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=10B981&fire=F59E0B&currStreakLabel=FFFFFF&sideLabels=6366F1" alt="GitHub Streak"/>
+  <img width="70%" src="https://streak-stats.demolab.com?user=Raghavendra-varma-au-cse&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=10B981&fire=F59E0B&currStreakLabel=FFFFFF&sideLabels=6366F1" alt="GitHub Streak"/>
 
   <br/><br/>
 
