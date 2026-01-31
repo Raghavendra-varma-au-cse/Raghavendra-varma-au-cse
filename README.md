@@ -613,10 +613,6 @@ AI-powered **eye disease detection** from retinal images
 
   <br/><br/>
 
-  <!-- STREAK STATS -->
-  <img width="70%" src="https://streak-stats.demolab.com/?user=Raghavendra-varma-au-cse&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=10B981&fire=F59E0B&currStreakLabel=FFFFFF&sideLabels=6366F1" alt="GitHub Streak"/>
-  <br/><br/>
-
   <!-- ACTIVITY GRAPH -->
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Raghavendra-varma-au-cse&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=10B981&point=F59E0B&area=true&area_color=6366F1" alt="Activity Graph"/>
 
