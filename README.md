@@ -8,7 +8,7 @@
   
   <!-- NAME WITH GLOW EFFECT -->
   <h1>
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=45&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&repeat=true&width=650&height=70&lines=RAGHAVENDRA+VARMA" alt="Name" />
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=45&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&repeat=true&width=700&height=70&lines=RAGHAVENDRA+VARMA" alt="Name" />
   </h1>
 
   <!-- ANIMATED TITLE BADGES -->
@@ -26,7 +26,7 @@
   
   <!-- TYPING ANIMATION -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=80&lines=Building+Production-Grade+Platforms+at+Enterprise+Scale;ISO+27001+Practitioner+%7C+152K%2B+Users+%7C+8.3M%2B+Requests" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=80&lines=Building+Production-Grade+Platforms+at+Enterprise+Scale;ISO+27001+Practitioner+%7C+152K%2B+Users+%7C+8.3M%2B+Requests" alt="Typing SVG" />
   </a>
 
   <br/><br/>
